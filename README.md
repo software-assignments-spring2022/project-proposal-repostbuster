@@ -10,7 +10,7 @@ Combating art theft can be a tedious and time consuming process, and there are p
 
 That's where RepostBuster comes in.
 
-### **RepostBuster will be an easy to use web application that finds instances of reposted images on the internet.**
+**RepostBuster will be an easy to use web application that finds instances of reposted images on the internet.**
 
 The goal of RepostBuster will be to help enforce the digital license and copyright of digital artists and their artwork. 
 
