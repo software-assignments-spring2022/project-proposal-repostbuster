@@ -25,13 +25,13 @@ The user can also provide their own credetials so that the program will only fin
 
 RepostBuster will provide the user of a list of links to any reuploaded instances that it finds. What the user decides to do with this information will be up to them.
 
+## Thats cool, but how will you get this done?
+
 ### Techstack 
 
-The reverse image search functionality will be possible through the use of the [Google Cloud Vision API](https://cloud.google.com/vision), which will make the image search functionality possible.
+The reverse image search functionality will be possible through the use of the [Google Cloud Vision API](https://cloud.google.com/vision), as this is one of the functionalities offered by the API.
 
-The rest will be made possible using the MERN Stack (MongoDB, Express.js, React.js, Node.js) and will be deployed as a web application.
-
-## Thats cool, but how will you get this done?
+The rest of the program will be made possible using the MERN Stack (MongoDB, Express.js, React.js, Node.js) and will be deployed as a web application.
 
 The only major roadblock will be learning how to implement the reverse image search functionality in a usable way. The rest will involve integrating it into a web application with an easy to use front end.
 
