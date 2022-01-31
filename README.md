@@ -17,13 +17,17 @@ The goal of RepostBuster will be to help enforce the digital license and copyrig
 
 ## Okay. But how will this work?
 
-The user will be able to upload an image to the program. RepostBuster will then use this image to perform a **reverse image search** to find any duplicate instances of the image on the internet. The user will also provide their own credetials so that the program will only find instances of the image being used by other people.
+The user will be able to upload an image to the program. RepostBuster will then use this image to perform a **reverse image search** to find any duplicate instances of the image on the internet. 
 
-RepostBuster will provide the user of a list of links to any reuploaded instances that it finds. 
+> A reverse image search works similarly to a basic google search. However, instead of inputing words or keyterms to search, you upload an actual image (PNG, JPEG, ect.) and the search engine returns other instances of the same or similar images it finds on the internet.
+
+The user can also provide their own credetials so that the program will only find instances of the image being used by other people.
+
+RepostBuster will provide the user of a list of links to any reuploaded instances that it finds. What the user decides to do with this information will be up to them.
 
 ### Techstack 
 
-This will be possible through the use of the [Google Cloud Vision API](https://cloud.google.com/vision), which will make the image search functionality possible.
+The reverse image search functionality will be possible through the use of the [Google Cloud Vision API](https://cloud.google.com/vision), which will make the image search functionality possible.
 
 The rest will be made possible using the MERN Stack (MongoDB, Express.js, React.js, Node.js) and will be deployed as a web application.
 
