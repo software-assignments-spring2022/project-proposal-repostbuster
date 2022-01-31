@@ -4,7 +4,7 @@
 
 Image hosting sites including Twitter and Instagram have become great platforms for artists to share their work with thousands of people on the internet. These artists can range from simple hobbiests to seasoned industry professionals, but there is one thing that all online artists come in contact with: **Art Theft**.
 
-Artists have the right to determine how they would like their images to be use. Despite this there is a misconception that just because an image is free on the internet, it is free to use however you wish. Because of this there are countless instances of people unrightfully reuploading images, using them for commercial use, or even flat out pladgiarism. A prime example of this involves the rise of NFTs, in which some users are minting artwork that does not belong to them. This is commonly refered to as Art Theft.
+Artists have the right to determine how they would like their images to be use. Despite this there is a misconception that just because an image is free on the internet, it is free to use however you wish. Because of this there are countless instances of people unrightfully reuploading images, using them for commercial use, or even flat out pladgiarism. This is commonly refered to as Art Theft.
 
 Often times the only way to combat this is to manually find the stolen work and report it yourself. However, this process can be extreemly tedious and time consuming. In addition, there are very few tools out there that help to combat this issue. That is where RepostBuster comes in.
 
