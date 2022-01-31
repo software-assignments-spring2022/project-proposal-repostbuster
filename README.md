@@ -4,9 +4,11 @@
 
 Image hosting sites including Twitter and Instagram have become great platforms for artists to share their work with thousands of people on the internet. These artists can range from simple hobbiests to seasoned industry professionals, but there is one thing that all online artists come in contact with: **Art Theft**.
 
-Artists have the right to determine how they would like their images to be use. Despite this there is a misconception that just because an image is free on the internet, it is free to use however you wish. Because of this there are countless instances of people unrightfully reuploading images, using them for commercial use, or even flat out pladgiarism. This is commonly refered to as Art Theft.
+There are countless instances of people reuploading images without sourcing the author, unrightfully using images for commercial use, or even just flat out pladgiarism of other peoples work. 
 
-Often times the only way to combat this is to manually find the stolen work and report it yourself. However, this process can be extreemly tedious and time consuming. In addition, there are very few tools out there that help to combat this issue. That is where RepostBuster comes in.
+Combating art theft can be a tedious and time consuming process, and there are practically no tools currently available for people to fight this problem.
+
+That's where RepostBuster comes in.
 
 **RepostBuster will be an easy to use web application that finds instances of reposted images on the internet.**
 
@@ -23,11 +25,11 @@ RepostBuster will provide the user of a list of links to any reuploaded instance
 
 This will be possible through the use of the [Google Cloud Vision API](https://cloud.google.com/vision), which will make the image search functionality possible.
 
-The rest will be made possible using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+The rest will be made possible using the MERN Stack (MongoDB, Express.js, React.js, Node.js) and will be deployed as a web application.
 
 ## Thats cool, but how will you get this done?
 
-The only major roadblock will be implementing the reverse image search functionality in a usable way. The rest will involve integrating it into a webapplication in a functional way.
+The only major roadblock will be learning how to implement the reverse image search functionality in a usable way. The rest will involve integrating it into a web application with an easy to use front end.
 
 I estimate a team of 4-5 people will allow us to propperly complete this project for this class.
 
